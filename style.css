@@ -1,0 +1,23 @@
+body {
+	font-family: Roboto Condensed;
+	background-color: mediumaquamarine;
+	text-align: center;
+	color: darkgreen;
+}
+
+.container {
+	justify-content: center;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+	border: darkgreen solid 5px;
+	width: 60%;
+	box-shadow: -22px 20px 37px 10px rgba(12,20,12,0.69);
+
+}
+
+a {
+	text-decoration: none;
+	color: darkgreen;
+}
+
